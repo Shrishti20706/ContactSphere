@@ -6,7 +6,7 @@ ContactSphere is a Spring Boot based Contact Management System.
 - Java
 - Spring Boot
 - MySQL
-- Thymeleaf / React (if used)
+- Thymeleaf 
 - REST APIs
 
 ## Features
